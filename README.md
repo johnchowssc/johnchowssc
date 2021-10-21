@@ -1,7 +1,7 @@
-- 👋 Hi, I’m John
-- 👀 I’m interested in (re) learning how to code, after leaving technical work more than a decade ago. Formerly knew Java, microprocessor/assembly, C, C++, HTML, R, enterprise CRM
-- 🌱 I’m currently learning swift, python, and test-driven development.
-- 💞️ I’m looking to collaborate on anything to do with writing, web development, iOS, python, RPA, actual robots, ML.
+- 👋 Hi, I’m a bad programmer.
+- 👀 I’m interested in (re) learning how to code. I first left technical work more than a decade ago. Once knew Java, microprocessor/assembly, C, C++, HTML, R, enterprise CRM
+- 🌱 I’m learning swift, python, and test-driven development. Now I know nothing.
+- 💞️ I’m happy to collaborate on anything.
 - 📫 How to reach me: message me here, or at john.chow@sydneysabre.com
 
 <!---
