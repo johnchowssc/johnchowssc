@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a bad programmer.
+- 👋 Hi, I'm John.
 - 📫 How to reach me: message me here.
 
 <!---
